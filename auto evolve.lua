@@ -63,4 +63,4 @@ local function evolvePets()
     end
 end
 
-while wait(.2) do pcall(evolvePets) end
+while wait(.5) do pcall(evolvePets) end
