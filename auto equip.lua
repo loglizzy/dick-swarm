@@ -119,4 +119,4 @@ local function equipBest()
     end
 end
 
-while wait(.2) do pcall(equipBest) end
+while wait(.5) do pcall(equipBest) end
